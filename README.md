@@ -25,5 +25,5 @@ This project demonstrates the importance of interactivity in modern web applicat
 Overall, the Interactive Quiz Application is a lightweight, effective, and extensible solution that meets the requirements of a real-world user-facing web application. It highlights the practical application of frontend skills and lays a strong foundation for more complex JavaScript-based projects in the future.
 
 OUTPUT:
-![Image](https://github.com/user-attachments/assets/6ef7798b-a7e6-4b17-a521-f82da1db364d)
+
 
